@@ -23,5 +23,6 @@ h1, h2 {
 
 #logo { /* styles specifically for the logo text, still within the headings logo area */
     float: left;
+    font-size: 280%;
     
 }
