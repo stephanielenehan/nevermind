@@ -13,10 +13,15 @@ body {
     color: #3a3a3a; /*charcoal*/
 }
 
-/* headings and logo */
+/* headings and logo area*/
 h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
+}
+
+#logo { /* styles specifically for the logo text, still within the headings logo area */
+    float: left;
+    
 }
